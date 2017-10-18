@@ -1,0 +1,22 @@
+/*Parte 2*/
+.yellow {
+  display: block;
+  background-color: #F5B041;
+
+}
+div {
+  height: 160px;
+  width: 280px;
+  border: none;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+p {
+  border:none;
+}
+
+.gray {
+  background-color: #2C3E50;
+  color: #FDFEFE;
+}
